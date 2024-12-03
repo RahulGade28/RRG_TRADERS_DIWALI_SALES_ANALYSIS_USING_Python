@@ -1,1 +1,3 @@
-# RRG_TRADERS_DIWALI_SALES_ANALYSIS_USING_Python
+Performed data cleaning & manipulation.
+Performed exploratory data analysis (EDA) using pandas, matplotlib & seaborn libraries.
+Improved customers across different states, occupation, gender & age groups.
